@@ -1,5 +1,5 @@
 # Forecasting Extreme Weather Events with Hankel-Augmented Contrastive Representation Learning
-This repository is the official implementation for the paper: "Forecasting Extreme Weather Events with Hankel-Augmented Contrastive Representation Learning."
+This repository is the official implementation for the paper: "Hankelformer: Forecasting Extreme Weather Events with Hankel-Augmented Contrastive Learning for Spatiotemporal Representations".
 ## Overall Architecture
 <p align="center">
 <img src="./figures/framework.jpg" alt="" align=center />
